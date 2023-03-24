@@ -6,6 +6,6 @@ This repository is made so to provide clear depth in the fundamentals of Machine
 * <a href= "https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Image_Classification_Using_Keras.ipynb">Image Classification Using Keras</a> : In this, we have used `Fashion MNIST` dataset to do multi-classification.
 
 * <a
-href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/BigramLanguageModelling.ipynb">Bigram Language Modelling</a> : In this notebook, we have made `Bigram language model` from scratch, and then build `Neural Network` using `Pytorch`, which does the same job as `Bigram model`. we have used total `32033` words to model this.
+href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/BigramLanguageModelling.ipynb">Bigram Language Modelling</a> : In this notebook, we have made `Bigram character level language model` from scratch, and then build `Neural Network` using `Pytorch`, which does the same job as `Bigram model`. we have used total `32033` words to model this.
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/tree/main/CNN_ComputerVision">CNN And Computer Vision</a> : This Directory contains `concepts of CNN`, `Binary Classification Model Using CNN`, `Multiple Classification Model Using CNN` with `TensorFlow`.
