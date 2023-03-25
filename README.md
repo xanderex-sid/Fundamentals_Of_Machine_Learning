@@ -10,7 +10,7 @@ href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/tree/main/OpenCV%20with%20CUDA">OpenCV with CUDA<a> : This Directory contains projects related to `Computer Vision` and use of `OpenCV` with Parallel Computing platform - `CUDA`.
 
-* <a href= "https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Image_Classification_Using_Keras.ipynb">Image Classification Using Keras</a> : In this, we have used `Fashion MNIST` dataset to do multi-classification.
+* <a href= "https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Image_Classification_Using_Keras.ipynb">Image Classification Using Keras</a> : In this, we have used `Fashion MNIST` dataset to do `Multi-Classification`.
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Determinants_of_Earnings.ipynb">Determinants of Earnings</a> : In this, I have used and get experienced with libraries `pandas`, `numpy`, `seaborn`, `plotly`, `matplotlib`, `scikit-learn` and build a simple `linear regression` and `Multivariable Regression` model to predict earnings according to the features - years of schooling and years of work experience.
 
