@@ -1,7 +1,7 @@
 # Fundamentals_Of_Machine_Learning
 This repository is made so to provide clear depth in the fundamentals of Machine Learning.
 
-* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Back_Propagation_and_Creating_Neuron_Layers_MLP.ipynb">Back Propagation and Creating Neuron, Layers, MLP</a> : In this we have created Backpropagation from scratch and created Neuron, layers, Multi-layer Perceptron from scratch (A mini version of `Pytorch` library from scratch).
+* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Back_Propagation_and_Creating_Neuron_Layers_MLP.ipynb">Back Propagation and Creating Neuron, Layers, MLP</a> : In this we have created `Backpropagation Algorithm` from scratch and created `Neuron`, `layers`, `Multi-layer Perceptron` from scratch (A `mini version` of `Pytorch library` from scratch).
 
 * <a
 href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/BigramLanguageModelling.ipynb">Bigram Language Modelling</a> : In this notebook, we have made `Bigram character level language model` from scratch, and then build `Neural Network` using `Pytorch`, which does the same job as `Bigram model`. we have used total `32033` words to model this.
