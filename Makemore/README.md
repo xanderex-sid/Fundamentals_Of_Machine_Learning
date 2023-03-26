@@ -13,3 +13,9 @@ Making Everything From Scratch:
 href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/BigramLanguageModelling.ipynb">Makemore Project Using Bigram</a> : In this notebook, I have made `Bigram character level language model` from scratch, and then build `Neural Network` using `Pytorch`, which does the same job as `Bigram model`. we have used total `32,033` words to model this.
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/Character_level_Language_Modeling_Using_MLP.ipynb">Makemore Project Using MLP</a> : In this notebook, I have made 'MLP character level language model' from scratch, and `generated new names using 32,033 names`.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Siddharth Mishra.
