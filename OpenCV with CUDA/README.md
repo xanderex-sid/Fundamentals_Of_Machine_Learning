@@ -2,7 +2,7 @@
 
 * This Directory is for topics and projects related to `OpenCV` with `CUDA`.
 ---------------------------------------------------------------------------------------------------------------------
-* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/OpenCV%20with%20CUDA/Vehicle-Car-detection-in-real-time/README.md">Vehicle Detection Using OpenCV</a> : Vehicle detection is one of the widely used features by companies and organizations these days. This technology uses computer vision to detect different types of vehicles in a video or real-time via a camera. In this project, we have used `OpenCV` to detect the vehicles on the highway.
+* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/tree/main/OpenCV%20with%20CUDA/Vehicle-Car-detection-in-real-time">Vehicle Detection Using OpenCV</a> : Vehicle detection is one of the widely used features by companies and organizations these days. This technology uses computer vision to detect different types of vehicles in a video or real-time via a camera. In this project, we have used `OpenCV` to detect the vehicles on the highway.
 
 -----------------------------------------------------------------------------------------------------------------------
 Siddharth Mishra.
