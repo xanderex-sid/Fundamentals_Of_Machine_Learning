@@ -14,7 +14,7 @@ href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/Character_level_Language_Modeling_Using_MLP.ipynb">Makemore Project Using MLP</a> : In this notebook, I have made 'MLP character level language model' from scratch, and `generated new names using 32,033 names`.
 
-
+* <a href="">Initialization, Activation, Gradients & Batch Normalization</a> : (Part1) In this we have talked about how should we initialize our parameters so to get better results from the model.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
