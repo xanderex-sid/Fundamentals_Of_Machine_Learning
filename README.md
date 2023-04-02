@@ -1,6 +1,8 @@
 # Fundamentals_Of_Machine_Learning
 This repository is made so to provide clear depth in the fundamentals of Machine Learning.
 
+* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/tree/main/Research%20Papers%20Go%20Through">Research Paper Go Through</a> : In this Directory, I have stored different research papers summarised version, written by my self. It is available and beneficial to all those peoples, who wants to go through different research papers rapidly, in summarised way.
+
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore">Project: Makemore</a> : In this project: `makemore`, It `takes one text file as input`, where each line is assumed to be one training thing, and `generates more things like it`. To create this project, I implemented various models i.e. `Bigram Model`, `MLP Model`, `CNN Model`, `RNN Model`, `LSTM Model`, `GRU Model`, `Transformer Model`, and evaluated their accuracy, `Transformers` are performing best for now. Libraries used are `Pytorch`, `matplotlib`.
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/tree/main/OpenCV%20with%20CUDA">OpenCV with CUDA Projects<a> : This Directory contains projects related to `Computer Vision` and use of `OpenCV` with Parallel Computing platform - `CUDA`.
