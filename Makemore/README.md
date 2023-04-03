@@ -16,6 +16,8 @@ href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/Makemore_Initialization%2C_Activation%2CGradients%26BatchNorm.ipynb">Initialization, Activation, Gradients & Batch Normalization</a> : (Part1) In this we have talked about how should we initialize our parameters so to get better results from the model.
 
+* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/Creating_MLP_using_Pytorch.ipynb">Batch Normalization And Diagnostic Tools Using Pytorch</a> : (Part2) In this we have code our model with `Batch Normalization using Pytorch`. We have also seen some `diagnostic tools` to analyze our model productively. 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Siddharth Mishra.
