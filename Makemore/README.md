@@ -18,6 +18,7 @@ href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/Creating_MLP_using_Pytorch.ipynb">Batch Normalization And Diagnostic Tools Using Pytorch</a> : (Part2) In this we have code our model with `Batch Normalization using Pytorch`. We have also seen some `diagnostic tools` to analyze our model productively. 
 
+* <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/blob/main/Makemore/makemore_part5_wavenet.ipynb">WaveNet Implementation</a> : In this we have implemented WaveNet to optimize our Name Generator model.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Siddharth Mishra.
