@@ -1,5 +1,5 @@
 # Fundamentals_Of_Machine_Learning
-This repository is made so to provide clear depth in the fundamentals of Machine Learning.
+This repository contains many of my projects related to machine learning.
 
 * <a href="https://github.com/RustyGrackle/Fundamentals_Of_Machine_Learning/tree/main/Research%20Papers%20Go%20Through">Research Paper Go Through</a> : In this Directory, I have stored different research papers summarised version, written by my self. It is available and beneficial to all those peoples, who wants to go through different research papers rapidly, in summarised way.
 
